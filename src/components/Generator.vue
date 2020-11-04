@@ -106,7 +106,7 @@ export default {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("https://media.licdn.com/dms/image/C4E16AQGu1PMz5Rarbw/profile-displaybackgroundimage-shrink_350_1400/0?e=1571875200&v=beta&t=bhSi6bjzKTwuCx0vreeKNskost66jA9rQXEKQIcraAo");
+  background-image: url("https://raw.githubusercontent.com/ZTKpro/description-generator.netlify.com/master/src/assets/computer-1209641_1280.jpg");
   background-position: center;
   background-size: 150% 100%;
 }
